@@ -15,7 +15,7 @@ class WeatherScreen extends StatefulWidget {
 class _WeatherScreenState extends State<WeatherScreen> {
   Future<Map<String, dynamic>> getCurrentWeather() async {
     try {
-      String cityName = "Jeddah,SA";
+      String cityName = "Nicosia,CY";
       final res = await http.get(
         Uri.parse(
           "https://api.openweathermap.org/data/2.5/forecast?q=$cityName&APPID=1bf472cd9e7e6ce4f793cda5928abe9c",
@@ -103,7 +103,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                           child: Column(
                             children: [
                               const Text(
-                                "Jeddah",
+                                "Nicosia",
                                 style: TextStyle(
                                     fontSize: 28, fontWeight: FontWeight.bold),
                               ),
