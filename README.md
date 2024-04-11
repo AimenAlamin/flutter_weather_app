@@ -1,14 +1,14 @@
 **Nicosia Weather App**
 
-Welcome to the Nicosia Weather App, your reliable source for real-time weather updates in Nicosia, Cyprus. This Flutter app fetches data from the OpenWeatherMap API to provide you with accurate and up-to-date weather information.
+This Flutter app fetches data from the OpenWeatherMap API to provide you with accurate and up-to-date weather information.
 
 **Features**
 
 Current Weather: Stay informed about the current weather conditions in Nicosia, including temperature, description (clear, sunny, cloudy, etc.), humidity, wind speed, and atmospheric pressure.
 
-Upcoming Forecast: Plan ahead with the upcoming weather forecast, so you can prepare for any changes in weather conditions.
+Upcoming Forecast: Plan ahead with the upcoming weather forecast.
 
-User-Friendly Interface: Enjoy a clean and intuitive interface that makes it easy to access all the weather information you need at a glance.
+User-Friendly Interface: A clean and intuitive interface that makes it easy to access all the weather information.
 
 **Usage**
 
